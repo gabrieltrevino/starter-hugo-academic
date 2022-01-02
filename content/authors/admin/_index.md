@@ -31,7 +31,7 @@ education:
     - course: BSc in Physics
       institution: Universidad Nacional Autonoma de Mexico
       year: 2015
-email: ""
+email: "gabrieltrevinov@gmail.com"
 superuser: true
 highlight_name: true
 ---
