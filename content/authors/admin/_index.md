@@ -37,4 +37,4 @@ highlight_name: true
 ---
 I am a medical student at Washington University School of Medicine. My current research interests include brain mapping for clinical applications in neurosurgery. In 2021, I completed my Ph.D. in theoretical physics at UC Santa Barbara where my main research was around black holes and quantum gravity. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}CV{{< /staticref >}}.
