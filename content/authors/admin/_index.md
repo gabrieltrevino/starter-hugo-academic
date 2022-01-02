@@ -1,7 +1,7 @@
 ---
 title: Gabriel Treviño Verástegui
 role: Medical Student and Researcher
-avatar_filename: gabriel.jpg
+avatar_filename: avatar.jpg
 bio: "Aspiring neurosurgeon. "
 interests:
   - Brain mapping
