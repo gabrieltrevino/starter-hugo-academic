@@ -1,12 +1,12 @@
 ---
-title: Gabriel Trevino Verastegui
+title: Gabriel Treviño Verástegui
 role: Medical Student and Researcher
 avatar_filename: gabriel.jpg
-bio: My research interests include neurosurgery.
+bio: "Aspiring neurosurgeon. "
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Brain mapping
+  - pediatric neurosurgery
+  - black holes.
 social:
   - icon: envelope
     icon_pack: fas
@@ -35,6 +35,6 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-I am a medical student at Washington University School of Medicine. I completed my PhD in theoretical physics at UC Santa Barbara where my main research was around black holes and quantum gravity. 
+I am a medical student at Washington University School of Medicine. My current research interests include brain mapping for clinical applications in neurosurgery. In 2021, I completed my Ph.D. in theoretical physics at UC Santa Barbara where my main research was around black holes and quantum gravity. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
