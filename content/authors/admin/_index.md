@@ -5,8 +5,8 @@ avatar_filename: avatar.jpg
 bio: "Aspiring neurosurgeon. "
 interests:
   - Brain mapping
-  - pediatric neurosurgery
-  - black holes.
+  - Pediatric neurosurgery
+  - Black holes
 social:
   - icon: envelope
     icon_pack: fas
