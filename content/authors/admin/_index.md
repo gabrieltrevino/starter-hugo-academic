@@ -31,7 +31,10 @@ education:
     - course: BSc in Physics
       institution: Universidad Nacional Autonoma de Mexico
       year: 2015
-email: "gabrieltrevinov@gmail.com"
+    - course: EMT
+      year: 2012
+      institution: Mexican Red Cross National School
+email: gabrieltrevinov@gmail.com
 superuser: true
 highlight_name: true
 ---
