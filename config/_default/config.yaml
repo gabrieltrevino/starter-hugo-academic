@@ -5,7 +5,7 @@
 
 title: Gabriel Trevino # Website name
 baseurl: 'https://gabrieltrevino.me/' # Website URL
-copyright: '© {year} Me' # Footer text, e.g. '© {year} Me'
+copyright: '© {year} Gabriel Trevino' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
