@@ -22,6 +22,9 @@ organizations:
     url: https://medicine.wustl.edu/
 education:
   courses:
+    - course: MD Candidate
+      institution: Washington University School of Medicine
+      year: 2025
     - course: PhD in Theoretical Physics
       institution: UC Santa Barbara
       year: 2021
